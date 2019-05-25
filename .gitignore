@@ -1,1 +1,10 @@
 *.pyc
+main.spec
+*.html
+build/main/warn-main.txt
+build/main/main.exe.manifest
+*.zip
+*.toc
+*.pyz
+*.pkg
+*.exe
