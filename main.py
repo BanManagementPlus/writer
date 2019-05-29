@@ -60,8 +60,8 @@ write_file('latest_bans','true','choose')
 write_file('latest_mutes','true','choose')
 # set password
 print('下面是设置密码的环节')
-out_password = root_password(_times)
-admin_password(out_password,_times)
+root_password(_times)
+# admin_password(out_password,_times)
 print('密码设置环节已结束')
 # other settings
 header_icon = input('请设置header_icon \n')
